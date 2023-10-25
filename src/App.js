@@ -5,9 +5,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header bg-wed">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={"https://cdn.jalan.jp/jalan/images/pict2L/Y4/Y397694/Y397694003.jpg"} className="App-logo" alt="logo" />
         <p className="text-wed-dark">
-          Welcome to <code>WED</code> Community.
+          <code>WED</code> にようこそ!
         </p>
         <a
           className="text-wed-dark underline"
